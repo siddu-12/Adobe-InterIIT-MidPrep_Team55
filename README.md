@@ -4,7 +4,7 @@ Repository containing the solution for the Adobe Behaviour Simulation and Conten
 
 ```bash
 .
-├── Images
+├── images
 │   ├── InstructFinal.webp
 │   ├── complete_pipeline.webp
 │   ├── kmeans.webp
